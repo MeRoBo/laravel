@@ -16,7 +16,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/MeRoBo/backup-manager",
+      "url": "https://github.com/MeRoBo/backup-manager"
     }
   ],
   "require": {
